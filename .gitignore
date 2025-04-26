@@ -1,0 +1,46 @@
+# Dependencies
+/node_modules/
+/yarn.lock
+/package-lock.json
+
+# Expo
+/.expo/
+/.expo-shared/
+/expo-env.d.ts
+
+# Build and output directories
+/android/
+/ios/
+/web-build/
+/dist/
+/build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+expo-error.log
+
+# Miscellaneous
+.DS_Store
+.env
+.env.*
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*.log
+
+# React Native specific
+*.keystore
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig
+*.rej
+*.patch
